@@ -1,0 +1,6 @@
+.dockerignore
+dockerfile.python
+*.pdf
+*.md
+.git
+back
